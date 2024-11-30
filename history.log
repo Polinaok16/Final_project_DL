@@ -1,0 +1,144 @@
+2024-11-01 15:51:21.827520 - file "horse.jpg" got caption "a brown horse running in a sandy area"
+2024-11-01 15:51:22.032154 - file "horse.jpg" objects detected "horse"
+2024-11-01 15:59:22.082359 - file "sasha.jpg" saved in database
+2024-11-01 15:59:31.157314 - file "sasha.jpg" saved in database
+2024-11-01 15:59:33.098980 - file "sasha.jpg" saved in database
+2024-11-01 16:02:12.817024 - file "horse.jpg" got caption "a brown horse running in a sandy area"
+2024-11-01 16:02:13.060341 - file "horse.jpg" objects detected "horse"
+2024-11-01 16:09:04.849363 - file "friends.jpg" got caption "two girls taking a self self self self self self self self self self self self self self self"
+2024-11-01 16:09:05.041127 - file "friends.jpg" objects detected "person ,person"
+2024-11-01 16:09:05.184927 - file "friends.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:09:28.424401 - file "friends.jpg" no known faces found
+2024-11-01 16:13:43.621511 - file "friends.jpg" got caption "two girls taking a self self self self self self self self self self self self self self self"
+2024-11-01 16:13:43.811898 - file "friends.jpg" objects detected "person ,person"
+2024-11-01 16:13:43.951680 - file "friends.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:13:45.699767 - file "friends.jpg" no known faces found
+2024-11-01 16:15:16.683850 - file "sasha.jpg" got caption "a woman with a pink shirt sitting at a desk"
+2024-11-01 16:15:16.913987 - file "sasha.jpg" objects detected "person"
+2024-11-01 16:15:17.055109 - file "sasha.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:15:19.005253 - file "sasha.jpg" faces foundsasha
+2024-11-01 16:18:11.191700 - file "sasha.jpg" got caption "a woman with a pink shirt sitting at a desk"
+2024-11-01 16:18:11.392813 - file "sasha.jpg" objects detected "person"
+2024-11-01 16:18:11.553663 - file "sasha.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:18:13.487560 - file "sasha.jpg" faces foundsasha
+2024-11-01 16:20:16.561265 - file "yulia.jpg" saved in database
+2024-11-01 16:20:49.891209 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:20:50.086987 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:20:50.214493 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:20:51.526633 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:23:21.812752 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:23:21.953405 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:23:22.105211 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:23:22.791348 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:24:17.372571 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:24:17.530106 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:24:17.654315 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:24:18.353957 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:24:49.677312 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:24:49.822055 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:24:49.962297 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:24:50.661144 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:26:38.410810 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:26:38.551192 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:26:38.674893 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:26:39.379732 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:28:31.286653 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:28:31.429152 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:28:31.555892 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:28:32.265037 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:33:25.143166 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:33:25.288539 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:33:25.415391 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:33:26.112458 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:34:20.610591 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:34:20.754670 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:34:20.879833 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:34:21.585473 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:35:31.969922 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:35:32.112613 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:35:32.255953 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:35:32.951052 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:36:07.480799 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:36:07.621103 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:36:07.742992 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:36:08.447539 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:36:17.239922 - file "horse.jpg" got caption "a brown horse running in a sandy area"
+2024-11-01 16:36:17.408323 - file "horse.jpg" objects detected "horse"
+2024-11-01 16:39:42.320927 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:39:42.461945 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:39:42.617755 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:39:43.315295 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:41:13.072271 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:41:13.213046 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:41:13.354574 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:41:14.062304 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:41:42.904967 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:41:43.048263 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:41:43.174465 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:41:43.876910 - file "yulia.jpg" faces foundyulia
+2024-11-01 16:43:38.343802 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 16:43:38.485852 - file "yulia.jpg" objects detected "person"
+2024-11-01 16:43:38.626632 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 16:43:39.347788 - file "yulia.jpg" faces foundyulia
+2024-11-01 17:17:42.428840 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 17:17:42.570223 - file "yulia.jpg" objects detected "person"
+2024-11-01 17:17:42.719111 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:17:43.417502 - file "yulia.jpg" faces foundyulia
+2024-11-01 17:19:16.577224 - file "car.jpg" got caption "a black mercedes car parked on the side of a road"
+2024-11-01 17:19:16.746691 - file "car.jpg" objects detected "car"
+2024-11-01 17:19:16.880571 - file "car.jpg" saved as "car" category "a photo of car"
+2024-11-01 17:19:17.213105 - file "car.jpg" faces foundyulia
+2024-11-01 17:19:53.661536 - file "car.jpg" got caption "a black mercedes car parked on the side of a road"
+2024-11-01 17:19:53.785374 - file "car.jpg" objects detected "car"
+2024-11-01 17:19:53.925265 - file "car.jpg" saved as "car" category "a photo of car"
+2024-11-01 17:19:54.261082 - file "car.jpg" faces foundyulia
+2024-11-01 17:22:02.036004 - file "salad.jpg" got caption "a plate of chicken salad with a fork and knife"
+2024-11-01 17:22:02.160938 - file "salad.jpg" objects detected "bowl"
+2024-11-01 17:22:02.294030 - file "salad.jpg" saved as "food" category "a photo of a food"
+2024-11-01 17:22:02.635964 - file "salad.jpg" faces foundyulia
+2024-11-01 17:23:12.529038 - file "sasha.jpg" got caption "a woman with a pink shirt sitting at a desk"
+2024-11-01 17:23:12.718930 - file "sasha.jpg" objects detected "person"
+2024-11-01 17:23:12.859909 - file "sasha.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:23:14.796749 - file "sasha.jpg" faces foundsasha
+2024-11-01 17:24:49.334411 - file "sasha.jpg" got caption "a woman with a pink shirt sitting at a desk"
+2024-11-01 17:24:49.548038 - file "sasha.jpg" objects detected "person"
+2024-11-01 17:24:49.731152 - file "sasha.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:24:51.683647 - file "sasha.jpg" faces foundsasha
+2024-11-01 17:25:58.709902 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 17:25:58.846783 - file "yulia.jpg" objects detected "person"
+2024-11-01 17:25:58.986159 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:25:59.692607 - file "yulia.jpg" faces foundyulia
+2024-11-01 17:28:46.920780 - file "yulia.jpg" got caption "a woman in a suit standing in a room"
+2024-11-01 17:28:47.062171 - file "yulia.jpg" objects detected "person"
+2024-11-01 17:28:47.216299 - file "yulia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:28:47.912370 - file "yulia.jpg" faces foundyulia
+2024-11-01 17:29:40.238841 - file "sasha.jpg" got caption "a woman with a pink shirt sitting at a desk"
+2024-11-01 17:29:40.478892 - file "sasha.jpg" objects detected "person"
+2024-11-01 17:29:40.621551 - file "sasha.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-01 17:29:42.558747 - file "sasha.jpg" faces foundsasha
+2024-11-01 17:30:38.243264 - file "horse.jpg" got caption "a brown horse running in a sandy area"
+2024-11-01 17:30:38.412688 - file "horse.jpg" objects detected "horse"
+2024-11-01 17:31:47.242026 - file "horse.jpg" got caption "a horse standing in a field with a green field behind it"
+2024-11-01 17:31:47.436019 - file "horse.jpg" objects detected "horse"
+2024-11-01 17:31:47.565511 - file "horse.jpg" saved as "horse" category "a photo of horse"
+2024-11-01 17:31:48.508159 - file "horse.jpg" faces foundyulia
+2024-11-01 17:33:21.592533 - file "nature.jpg" got caption "a path through the forest"
+2024-11-01 17:33:21.736472 - file "nature.jpg" objects detected ""
+2024-11-01 17:33:21.868520 - file "nature.jpg" saved as "nature" category "a photo of nature"
+2024-11-01 17:33:23.273992 - file "nature.jpg" no known faces found
+2024-11-01 19:47:09.236225 - file "horse.jpg" got caption "a horse standing in a field with a green field behind it"
+2024-11-01 19:47:09.402406 - file "horse.jpg" objects detected "horse"
+2024-11-01 19:47:09.546338 - file "horse.jpg" saved as "horse" category "a photo of horse"
+2024-11-01 19:47:10.477783 - file "horse.jpg" faces foundyulia
+2024-11-02 17:53:47.796042 - file "Ilia.jpg" got caption "a man in a car with a cat on his shoulder"
+2024-11-02 17:53:48.132977 - file "Ilia.jpg" objects detected "tie ,person"
+2024-11-02 17:55:17.813646 - file "Ilia.jpg" saved as "other" category "a photo of unknown stuff"
+2024-11-02 17:55:40.920269 - file "Ilia.jpg" faces foundyulia
+2024-11-30 09:45:21.708166 - file "Без названия.jpg" got caption "a gray and white cat"
+2024-11-30 09:45:21.934539 - file "Без названия.jpg" objects detected ""
+2024-11-30 09:46:50.051613 - file "Без названия.jpg" saved as "cats" category "a photo of cat"
+2024-11-30 09:47:13.768878 - file "Без названия.jpg" no known faces found
+2024-11-30 09:49:23.613741 - file "party.jpg" got caption "a group of people celebrating with confe"
+2024-11-30 09:49:23.778319 - file "party.jpg" objects detected "person ,person ,person ,person"
+2024-11-30 09:49:23.906163 - file "party.jpg" saved as "party" category "a photo of a party"
+2024-11-30 09:49:24.282792 - file "party.jpg" faces foundyulia
